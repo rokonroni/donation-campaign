@@ -8,7 +8,8 @@
     "donationAmount": 1500,
     "category_bg": "bg-blue-100",
     "card_bg": "bg-blue-300",
-    "text_bg": "text-blue-600"
+    "text_bg": "text-blue-600",
+    "donate_bg": "bg-blue-600"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "donationAmount": 1100,
     "category_bg": "bg-red-100",
     "card_bg": "bg-red-300",
-    "text_bg": "text-red-600"
+    "text_bg": "text-red-600",
+    "donate_bg": "bg-red-600"
   },
   {
     "id": "3",
@@ -30,7 +32,8 @@
     "donationAmount": 1600,
     "category_bg": "bg-green-100",
     "card_bg": "bg-green-300",
-    "text_bg": "text-green-600"
+    "text_bg": "text-green-600",
+    "donate_bg": "bg-green-600"
   },
   {
     "id": "4",
@@ -41,7 +44,8 @@
     "donationAmount": 1300,
     "category_bg": "bg-orange-100",
     "card_bg": "bg-orange-300",
-    "text_bg": "text-orange-600"
+    "text_bg": "text-orange-600",
+    "donate_bg": "bg-orange-600"
   },
   {
     "id": "5",
@@ -52,7 +56,8 @@
     "donationAmount": 1300,
     "category_bg": "bg-blue-100",
     "card_bg": "bg-blue-300",
-    "text_bg": "text-blue-600"
+    "text_bg": "text-blue-600",
+    "donate_bg": "bg-blue-600"
   },
   {
     "id": "6",
@@ -63,7 +68,8 @@
     "donationAmount": 1100,
     "category_bg": "bg-orange-100",
     "card_bg": "bg-orange-300",
-    "text_bg": "text-orange-600"
+    "text_bg": "text-orange-600",
+    "donate_bg": "bg-orange-600"
   },
   {
     "id": "7",
@@ -74,7 +80,8 @@
     "donationAmount": 1300,
     "category_bg": "bg-green-100",
     "card_bg": "bg-green-300",
-    "text_bg": "text-green-600"
+    "text_bg": "text-green-600",
+    "donate_bg": "bg-green-600"
   },
   {
     "id": "8",
@@ -85,7 +92,8 @@
     "donationAmount": 1800,
     "category_bg": "bg-red-100",
     "card_bg": "bg-red-300",
-    "text_bg": "text-red-600"
+    "text_bg": "text-red-600",
+    "donate_bg": "bg-red-600"
   },
   {
     "id": "9",
@@ -96,7 +104,8 @@
     "donationAmount": 1600,
     "category_bg": "bg-green-100",
     "card_bg": "bg-green-300",
-    "text_bg": "text-green-600"
+    "text_bg": "text-green-600",
+    "donate_bg": "bg-green-600"
   },
   {
     "id": "10",
@@ -107,7 +116,8 @@
     "donationAmount": 1500,
     "category_bg": "bg-red-100",
     "card_bg": "bg-red-300",
-    "text_bg": "text-red-600"
+    "text_bg": "text-red-600",
+    "donate_bg": "bg-red-600"
   },
   {
     "id": "11",
@@ -118,7 +128,8 @@
     "donationAmount": 1100,
     "category_bg": "bg-orange-100",
     "card_bg": "bg-orange-300",
-    "text_bg": "text-orange-600"
+    "text_bg": "text-orange-600",
+    "donate_bg": "bg-orange-600"
   },
   {
     "id": "12",
@@ -129,6 +140,7 @@
     "donationAmount": 1300,
     "category_bg": "bg-orange-100",
     "card_bg": "bg-orange-300",
-    "text_bg": "text-orange-600"
+    "text_bg": "text-orange-600",
+    "donate_bg": "bg-orange-600"
   }
 ]
