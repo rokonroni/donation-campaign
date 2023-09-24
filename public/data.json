@@ -6,9 +6,9 @@
     "img": "https://i.ibb.co/zHWfMfb/Health.png",
     "description": "Support groundbreaking medical research initiatives aimed at finding cures and treatments for a wide range of diseases. Your generous donation will contribute to ongoing efforts to advance healthcare and improve the quality of life for individuals and communities around the world.",
     "donationAmount": 1500,
-    "category_bg": "bg-blue-200",
-    "card_bg": "bg-blue-400",
-    "text_bg": "bg-blue-600"
+    "category_bg": "bg-blue-100",
+    "card_bg": "bg-blue-300",
+    "text_bg": "text-blue-600"
   },
   {
     "id": "2",
@@ -16,10 +16,10 @@
     "category": "Education",
     "img": "https://i.ibb.co/9WvNSM3/Education.png",
     "description": "Join us in providing quality education to underprivileged children who deserve access to knowledge and learning opportunities. Your donation empowers young minds, fosters curiosity, and shapes the future leaders of our world. Together, we can make a difference.",
-    "donationAmount": 1200,
-    "category_bg": "bg-red-200",
-    "card_bg": "bg-red-400",
-    "text_bg": "bg-red-600"
+    "donationAmount": 1100,
+    "category_bg": "bg-red-100",
+    "card_bg": "bg-red-300",
+    "text_bg": "text-red-600"
   },
   {
     "id": "3",
@@ -28,9 +28,9 @@
     "img": "https://i.ibb.co/gwbCcvg/Clothing.png",
     "description": "Help us support a heartwarming clothing drive dedicated to providing warm winter clothing to those in need. Your donation not only keeps families warm during the cold season but also spreads hope, compassion, and kindness in our communities.",
     "donationAmount": 1600,
-    "category_bg": "bg-green-200",
-    "card_bg": "bg-green-400",
-    "text_bg": "bg-green-600"
+    "category_bg": "bg-green-100",
+    "card_bg": "bg-green-300",
+    "text_bg": "text-green-600"
   },
   {
     "id": "4",
@@ -39,9 +39,9 @@
     "img": "https://i.ibb.co/ysyrP9P/Food.png",
     "description": "Make a significant impact by helping stock local food banks and fighting hunger in your community. Your donation ensures that families have access to nutritious meals, bringing smiles and relief to those in need.",
     "donationAmount": 1300,
-    "category_bg": "bg-orange-200",
-    "card_bg": "bg-orange-400",
-    "text_bg": "bg-orange-600"
+    "category_bg": "bg-orange-100",
+    "card_bg": "bg-orange-300",
+    "text_bg": "text-orange-600"
   },
   {
     "id": "5",
@@ -49,10 +49,10 @@
     "category": "Health",
     "img": "https://i.ibb.co/zHWfMfb/Health.png",
     "description": "Support global healthcare initiatives aimed at improving access to medical services for vulnerable communities worldwide. Your generous contribution promotes better health, saves lives, and brings hope to those in need.",
-    "donationAmount": 1400,
-    "category_bg": "bg-blue-200",
-    "card_bg": "bg-blue-400",
-    "text_bg": "bg-blue-600"
+    "donationAmount": 1300,
+    "category_bg": "bg-blue-100",
+    "card_bg": "bg-blue-300",
+    "text_bg": "text-blue-600"
   },
   {
     "id": "6",
@@ -61,9 +61,9 @@
     "img": "https://i.ibb.co/ysyrP9P/Food.png",
     "description": "Join us in supporting school meal programs that ensure students receive daily nutrition. Your donation not only fuels young minds and learning but also contributes to the overall well-being of children in our communities.",
     "donationAmount": 1100,
-    "category_bg": "bg-orange-200",
-    "card_bg": "bg-orange-400",
-    "text_bg": "bg-orange-600"
+    "category_bg": "bg-orange-100",
+    "card_bg": "bg-orange-300",
+    "text_bg": "text-orange-600"
   },
   {
     "id": "7",
@@ -72,9 +72,9 @@
     "img": "https://i.ibb.co/gwbCcvg/Clothing.png",
     "description": "Make a difference by providing clothing and warm apparel to homeless shelters. Your generous donation offers dignity, comfort, and hope to individuals and families experiencing homelessness during challenging times.",
     "donationAmount": 1300,
-    "category_bg": "bg-green-200",
-    "card_bg": "bg-green-400",
-    "text_bg": "bg-green-600"
+    "category_bg": "bg-green-100",
+    "card_bg": "bg-green-300",
+    "text_bg": "text-green-600"
   },
   {
     "id": "8",
@@ -83,9 +83,9 @@
     "img": "https://i.ibb.co/9WvNSM3/Education.png",
     "description": "Empower students to pursue higher education with scholarships that open doors to a brighter future. Your generous donation invests in the potential of young adults, fostering education and growth in our communities.",
     "donationAmount": 1800,
-    "category_bg": "bg-red-200",
-    "card_bg": "bg-red-400",
-    "text_bg": "bg-red-600"
+    "category_bg": "bg-red-100",
+    "card_bg": "bg-red-300",
+    "text_bg": "text-red-600"
   },
   {
     "id": "9",
@@ -94,9 +94,9 @@
     "img": "https://i.ibb.co/gwbCcvg/Clothing.png",
     "description": "Help keep children warm during the winter by providing them with winter clothing. Your donation ensures that young ones stay cozy and comfortable, even during the coldest months.",
     "donationAmount": 1600,
-    "category_bg": "bg-green-200",
-    "card_bg": "bg-green-400",
-    "text_bg": "bg-green-600"
+    "category_bg": "bg-green-100",
+    "card_bg": "bg-green-300",
+    "text_bg": "text-green-600"
   },
   {
     "id": "10",
@@ -105,9 +105,9 @@
     "img": "https://i.ibb.co/9WvNSM3/Education.png",
     "description": "Contribute to a fund that provides quality education opportunities for children, empowering them to build a brighter future. Your donation unlocks the potential of young minds, fostering learning and growth in our communities.",
     "donationAmount": 1500,
-    "category_bg": "bg-red-200",
-    "card_bg": "bg-red-400",
-    "text_bg": "bg-red-600"
+    "category_bg": "bg-red-100",
+    "card_bg": "bg-red-300",
+    "text_bg": "text-red-600"
   },
   {
     "id": "11",
@@ -116,9 +116,9 @@
     "img": "https://i.ibb.co/ysyrP9P/Food.png",
     "description": "Join us in supporting school meal programs that ensure students receive daily nutrition. Your donation not only fuels young minds and learning but also contributes to the overall well-being of children in our communities.",
     "donationAmount": 1100,
-    "category_bg": "bg-orange-200",
-    "card_bg": "bg-orange-400",
-    "text_bg": "bg-orange-600"
+    "category_bg": "bg-orange-100",
+    "card_bg": "bg-orange-300",
+    "text_bg": "text-orange-600"
   },
   {
     "id": "12",
@@ -126,9 +126,9 @@
     "category": "Food",
     "img": "https://i.ibb.co/ysyrP9P/Food.png",
     "description": "Support nutrition programs to provide balanced meals to vulnerable communities. Your donation ensures access to healthy food, promoting better health and well-being for all.",
-    "donationAmount": 1400,
-    "category_bg": "bg-orange-200",
-    "card_bg": "bg-orange-400",
-    "text_bg": "bg-orange-600"
+    "donationAmount": 1300,
+    "category_bg": "bg-orange-100",
+    "card_bg": "bg-orange-300",
+    "text_bg": "text-orange-600"
   }
 ]
